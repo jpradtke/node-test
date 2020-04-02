@@ -1,0 +1,24 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "This is the first node.js application i´ll write. Data selffie App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpradtke/node-test.git"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "Jan Peter Radtke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jpradtke/node-test/issues"
+  },
+  "homepage": "https://github.com/jpradtke/node-test#readme"
+}
