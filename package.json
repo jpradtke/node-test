@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jpradtke/node-test/issues"
   },
-  "homepage": "https://github.com/jpradtke/node-test#readme"
+  "homepage": "https://github.com/jpradtke/node-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
